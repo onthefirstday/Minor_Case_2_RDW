@@ -45,5 +45,3 @@ st.sidebar.markdown("Explore RDW vehicle data including makes, models, and fuel 
 
 pg = st.navigation(["page1.py", "page2.py"])
 pg.run()
-
-st.write('Hello')
